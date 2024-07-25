@@ -2,7 +2,7 @@
 
 Currently I decided to switch from working on learning languages to learning an important part of coding, syncing my projects with databases. So this project will be less focused on using the language as much as it will be focused on connected to a cloud database to store and retrieve values for a user. Specifically this app will allow users to record basic workouts like running, bicycling, and swimming events.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/AuKX1fsDg1I)
 
 # Cloud Database
 
